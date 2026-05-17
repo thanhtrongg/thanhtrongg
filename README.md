@@ -71,7 +71,3 @@ I’m also planning to expand my knowledge into **research** and deeper engineer
   <a href="https://wa.me/840359893651"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-

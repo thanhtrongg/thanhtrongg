@@ -9,14 +9,14 @@
 ## 📌 About Me
 - I’m a passionate Fullstack Developer currently focusing on building modern web applications with ReactJS, NestJS, Node.js, and SQL Server.
 - I enjoy turning ideas into practical, user-friendly products while continuously improving performance, clean architecture, and backend scalability.
- 💻 I have experience working with:
+- 💻 I have experience working with:
 - Frontend development using ReactJS
 - Backend APIs with NestJS & Node.js
 - Database management with SQL Server
 - WordPress website customization & content management
 - SEO-oriented web content optimization
 - 🎯 My goal is to become a strong software engineer who can build reliable, maintainable, and impactful systems that solve real-world problems.
- 📚 Currently learning more about:
+- 📚 Currently learning more about:
 - System Design
 - Backend Architecture
 - Clean Code & Design Patterns

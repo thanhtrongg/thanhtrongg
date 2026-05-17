@@ -7,8 +7,6 @@
 </p>
 
 ## 📌 About Me
-## Hi, I'm a Backend-focused Fullstack Developer
-
 I'm a **Fullstack Developer specializing in Backend Engineering** and a **Software Engineering graduate from FPT University**.
 
 I enjoy building practical, scalable, and maintainable applications that solve real-world problems.

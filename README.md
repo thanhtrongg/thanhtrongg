@@ -7,22 +7,51 @@
 </p>
 
 ## 📌 About Me
-- I’m a passionate Fullstack Developer currently focusing on building modern web applications with ReactJS, NestJS, Node.js, and SQL Server.
-- I enjoy turning ideas into practical, user-friendly products while continuously improving performance, clean architecture, and backend scalability.
-- 💻 I have experience working with:
-- Frontend development using ReactJS
-- Backend APIs with NestJS & Node.js
-- Database management with SQL Server
-- WordPress website customization & content management
-- SEO-oriented web content optimization
-- 🎯 My goal is to become a strong software engineer who can build reliable, maintainable, and impactful systems that solve real-world problems.
-- 📚 Currently learning more about:
-- System Design
+## Hi, I'm a Backend-focused Fullstack Developer
+
+I'm a **Fullstack Developer specializing in Backend Engineering** and a **Software Engineering graduate from FPT University**.
+
+I enjoy building practical, scalable, and maintainable applications that solve real-world problems.
+
+### Tech Stack
+
+**Languages**
+- JavaScript
+- TypeScript
+
+**Backend**
+- Node.js
+- NestJS
+- RESTful API
 - Backend Architecture
-- Clean Code & Design Patterns
+
+**Frontend & Mobile**
+- ReactJS
+- React Native
+
+**Database**
+- PostgreSQL
+- SQL
+
+**Others**
+- WordPress Customization
+- SEO-oriented Content Optimization
+- Git & GitHub
+
+### Currently Learning
+
+- System Design
+- Clean Code
+- Design Patterns
 - DevOps & Deployment
-- Advanced React & NestJS
-- ⚡ I enjoy learning new technologies, solving problems, and collaborating on meaningful projects.
+- Advanced Backend Architecture
+- Research-oriented Software Engineering
+
+### My Goal
+
+My goal is to become a strong **Software Engineer** who can build reliable, scalable, and impactful systems.
+
+I’m also planning to expand my knowledge into **research** and deeper engineering practices in the future.
 
 
 ## 📊 GitHub Stats & Trophies

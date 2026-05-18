@@ -51,16 +51,6 @@ My goal is to become a strong **Software Engineer** who can build reliable, scal
 
 I’m also planning to expand my knowledge into **research** and deeper engineering practices in the future.
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/thanhtrongg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thanhtrongg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="thanhtrongg's GitHub Stats" />
-  </a>
-</p>
-
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:tt.trong.2108@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Trần Thanh Trọng's Email"/></a>&nbsp;&nbsp;

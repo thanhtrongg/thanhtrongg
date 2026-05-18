@@ -57,12 +57,8 @@ I’m also planning to expand my knowledge into **research** and deeper engineer
   <a href="https://github.com/thanhtrongg">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thanhtrongg&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="thanhtrongg's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=thanhtrongg&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="thanhtrongg's GitHub Streak" width="49%" />
 </p>
 
-
-## 🛠️ Languages & Tools
-![Top language](https://stats.pphat.top/languages?username=thanhtrongg)
 <br/>
 
 ## 🔗 Connect with Me

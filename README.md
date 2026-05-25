@@ -167,18 +167,57 @@ I’m also proficient in using **AI agents and LLM-powered tools** such as **Ope
 [![SEO Content Optimization](https://img.shields.io/badge/SEO--oriented_Content_Optimization-%234285F4.svg?style=flat-square&logo=google&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](#)
-### Currently Learning
 
-- System Design
-- Clean Code
-- Design Patterns
-- DevOps & Deployment
-- Advanced Backend Architecture
-- Research-oriented Software Engineering
+## 📚 Currently Learning & Future Goals
 
-### My Goal
+<div align="center">
 
-My goal is to become a strong **Software Engineer** who can build reliable, scalable, and impactful systems.
+<table>
+  <tr>
+    <th>Currently Learning</th>
+    <th>Focus Area</th>
+  </tr>
+  <tr>
+    <td><b>System Design</b></td>
+    <td>Designing scalable, reliable, and maintainable systems</td>
+  </tr>
+  <tr>
+    <td><b>Clean Code</b></td>
+    <td>Writing readable, reusable, and maintainable code</td>
+  </tr>
+  <tr>
+    <td><b>Design Patterns</b></td>
+    <td>Applying proven solutions to common software design problems</td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Deployment</b></td>
+    <td>Understanding deployment pipelines, environments, and production workflows</td>
+  </tr>
+  <tr>
+    <td><b>Advanced Backend Architecture</b></td>
+    <td>Building robust backend systems with better structure and scalability</td>
+  </tr>
+  <tr>
+    <td><b>Research-oriented Software Engineering</b></td>
+    <td>Exploring deeper engineering practices, academic thinking, and long-term problem solving</td>
+  </tr>
+</table>
 
-I’m also planning to expand my knowledge into **research** and deeper engineering practices in the future.
+</div>
 
+<br/>
+
+## 🎯 My Goal
+
+> My goal is to become a strong **Software Engineer** who can build reliable, scalable, and impactful systems.
+
+I’m continuously improving my backend, system design, and software architecture skills while expanding my knowledge into **research-oriented software engineering** and deeper engineering practices.
+
+<p>
+  <img src="https://img.shields.io/badge/System_Design-Learning-%232C3E50.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean_Code-Practice-%2300A86B.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design_Patterns-Learning-%237B3F9E.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps_%26_Deployment-Learning-%23F05032.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_Architecture-Advanced_Learning-%2302569B.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research--oriented_SE-Growing-%234285F4.svg?style=flat-square" />
+</p>

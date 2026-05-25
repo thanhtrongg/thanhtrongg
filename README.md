@@ -51,9 +51,8 @@ My goal is to become a strong **Software Engineer** who can build reliable, scal
 
 I’m also planning to expand my knowledge into **research** and deeper engineering practices in the future.
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:tt.trong.2108@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Trần Thanh Trọng's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/840359893651"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+**Frontend**
+
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/anuragg-saxenaa)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/anuragg-saxenaa)
 

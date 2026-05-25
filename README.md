@@ -78,6 +78,8 @@ I’m also proficient in using **AI agents and LLM-powered tools** such as **Ope
   <img src="https://img.shields.io/badge/REST_API-Architecture-%2302569B.svg?style=flat-square" />
 </p>
 
+---
+
 ## 🤖 AI / LLM & Agentic Coding Skills
 
 > Proficient in using AI agents and LLM-powered tools to accelerate software development, including code generation, debugging, refactoring, architecture design, documentation, and workflow automation.

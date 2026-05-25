@@ -11,15 +11,11 @@ I'm a **Fullstack Developer specializing in Backend Engineering** and a **Softwa
 
 I enjoy building practical, scalable, and maintainable applications that solve real-world problems.
 
-<div align="center">
-
 ## 🤖 AI / LLM & Agentic Coding Skills
 
-<p>
-  <em>
-    Proficient in using AI agents and LLM-powered tools to accelerate software development, including code generation, debugging, refactoring, architecture design, documentation, and workflow automation.
-  </em>
-</p>
+> Proficient in using AI agents and LLM-powered tools to accelerate software development, including code generation, debugging, refactoring, architecture design, documentation, and workflow automation.
+
+<div align="center">
 
 <table>
   <tr>
@@ -54,20 +50,16 @@ I enjoy building practical, scalable, and maintainable applications that solve r
   </tr>
 </table>
 
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-%234285F4.svg?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agent-Coding_Assistant-%23FF6B6B.svg?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-%237B3F9E.svg?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code_Generation-Advanced-%232C3E50.svg?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Debugging-Advanced-%2300A86B.svg?style=flat-square" />
-</p>
-
 </div>
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white)](#)
+[![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-%234285F4.svg?style=flat-square&logo=google&logoColor=white)](#)
+[![AI Agent](https://img.shields.io/badge/AI_Agent-Coding_Assistant-%23FF6B6B.svg?style=flat-square)](#)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Advanced-%237B3F9E.svg?style=flat-square)](#)
+[![Code Generation](https://img.shields.io/badge/Code_Generation-Advanced-%232C3E50.svg?style=flat-square)](#)
+[![AI Debugging](https://img.shields.io/badge/AI_Debugging-Advanced-%2300A86B.svg?style=flat-square)](#)
 
 ## 🛠️ Tech Stack
 

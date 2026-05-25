@@ -11,31 +11,36 @@ I'm a **Fullstack Developer specializing in Backend Engineering** and a **Softwa
 
 I enjoy building practical, scalable, and maintainable applications that solve real-world problems.
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-- JavaScript
-- TypeScript
+### Languages
 
-**Backend**
-- Node.js
-- NestJS
-- RESTful API
-- Backend Architecture
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](#)
 
-**Frontend & Mobile**
-- ReactJS
-- React Native
+### Backend
 
-**Database**
-- PostgreSQL
-- SQL
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)](#)
+[![RESTful API](https://img.shields.io/badge/RESTful_API-02569B?style=flat-square&logo=fastapi&logoColor=white)](#)
+[![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-%232C3E50.svg?style=flat-square&logo=serverless&logoColor=white)](#)
 
-**Others**
-- WordPress Customization
-- SEO-oriented Content Optimization
-- Git & GitHub
+### Frontend & Mobile
 
+[![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](#)
+
+### Database
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=sqlite&logoColor=white)](#)
+
+### Others
+
+[![WordPress Customization](https://img.shields.io/badge/WordPress_Customization-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)](#)
+[![SEO Content Optimization](https://img.shields.io/badge/SEO--oriented_Content_Optimization-%234285F4.svg?style=flat-square&logo=google&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](#)
 ### Currently Learning
 
 - System Design
@@ -50,9 +55,4 @@ I enjoy building practical, scalable, and maintainable applications that solve r
 My goal is to become a strong **Software Engineer** who can build reliable, scalable, and impactful systems.
 
 I’m also planning to expand my knowledge into **research** and deeper engineering practices in the future.
-
-**Frontend**
-
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/anuragg-saxenaa)
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/anuragg-saxenaa)
 

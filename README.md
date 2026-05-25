@@ -20,6 +20,64 @@ I’m also proficient in using **AI agents and LLM-powered tools** such as **Ope
 - 🤖 Experienced in using **AI-assisted coding workflows** to improve productivity
 - 🧠 Always learning and improving through hands-on projects
 
+## 🟨 JavaScript & TypeScript Ecosystem
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Layer</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Core JavaScript</b></td>
+    <td>ES6+, Async/Await, Promises, DOM, Event Loop, Modules</td>
+  </tr>
+  <tr>
+    <td><b>TypeScript</b></td>
+    <td>Static Typing, Interfaces, Generics, Utility Types, Type Safety</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>ReactJS, React Hooks, Component-based UI, State Management</td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>React Native, Cross-platform Mobile Development</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js, NestJS, Express.js, RESTful API, Backend Architecture</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>PostgreSQL, SQL, Query Optimization, Database Design</td>
+  </tr>
+  <tr>
+    <td><b>API & Integration</b></td>
+    <td>REST API, JSON, Authentication, Authorization, Third-party APIs</td>
+  </tr>
+  <tr>
+    <td><b>Tools & Workflow</b></td>
+    <td>Git, GitHub, npm, VS Code, Postman, Debugging, Documentation</td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-Principal_Level-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-Framework-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-Frontend-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-Mobile-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-Architecture-%2302569B.svg?style=flat-square" />
+</p>
+
 ## 🤖 AI / LLM & Agentic Coding Skills
 
 > Proficient in using AI agents and LLM-powered tools to accelerate software development, including code generation, debugging, refactoring, architecture design, documentation, and workflow automation.

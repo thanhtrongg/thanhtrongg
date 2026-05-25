@@ -7,9 +7,18 @@
 </p>
 
 ## 📌 About Me
-I'm a **Fullstack Developer specializing in Backend Engineering** and a **Software Engineering graduate from FPT University**.
 
-I enjoy building practical, scalable, and maintainable applications that solve real-world problems.
+I'm a **Fullstack Developer** with a strong focus on **Backend Engineering**, currently building practical, scalable, and maintainable software solutions.
+
+I enjoy turning real-world problems into clean, efficient applications — from designing database structures and RESTful APIs to building user-friendly web interfaces.
+
+I’m also proficient in using **AI agents and LLM-powered tools** such as **OpenAI, Claude, Gemini, and Google Antigravity** to accelerate development workflows, including requirement analysis, code generation, debugging, refactoring, documentation, and architecture planning.
+
+- 🎓 Software Engineering graduate from **FPT University**
+- 💻 Focused on **Backend Development**, **Fullstack Web Development**, and **System Design**
+- 🚀 Passionate about building scalable applications that solve real problems
+- 🤖 Experienced in using **AI-assisted coding workflows** to improve productivity
+- 🧠 Always learning and improving through hands-on projects
 
 ## 🤖 AI / LLM & Agentic Coding Skills
 

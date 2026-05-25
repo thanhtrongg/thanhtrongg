@@ -130,6 +130,25 @@ I’m also proficient in using **AI agents and LLM-powered tools** such as **Ope
 [![Code Generation](https://img.shields.io/badge/Code_Generation-Advanced-%232C3E50.svg?style=flat-square)](#)
 [![AI Debugging](https://img.shields.io/badge/AI_Debugging-Advanced-%2300A86B.svg?style=flat-square)](#)
 
+## 🧩 UML & Software Modeling Skills
+
+Proficient in designing and analyzing UML diagrams to support software requirement analysis, architecture design, and system documentation.
+
+| Skill Area | Tools / Techniques | Proficiency |
+|---|---|---|
+| UML Diagram Design | Use Case Diagram, Class Diagram, Sequence Diagram, Activity Diagram | Advanced |
+| System Modeling | Requirement Analysis, Object-Oriented Analysis, Software Architecture Modeling | Advanced |
+| Documentation Support | Software Design Documents, System Design, Technical Documentation | Advanced |
+| Design Tools | Draw.io, StarUML, PlantUML, Lucidchart | Advanced |
+
+![UML](https://img.shields.io/badge/UML-Advanced-blue)
+![Use Case Diagram](https://img.shields.io/badge/Use%20Case%20Diagram-Advanced-green)
+![Class Diagram](https://img.shields.io/badge/Class%20Diagram-Advanced-orange)
+![Sequence Diagram](https://img.shields.io/badge/Sequence%20Diagram-Advanced-purple)
+![Activity Diagram](https://img.shields.io/badge/Activity%20Diagram-Advanced-red)
+![PlantUML](https://img.shields.io/badge/PlantUML-Modeling-yellow)
+![Draw.io](https://img.shields.io/badge/Draw.io-Design-lightgrey)
+
 ## 🛠️ Tech Stack
 
 ### Languages

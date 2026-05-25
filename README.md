@@ -11,26 +11,63 @@ I'm a **Fullstack Developer specializing in Backend Engineering** and a **Softwa
 
 I enjoy building practical, scalable, and maintainable applications that solve real-world problems.
 
+<div align="center">
+
 ## 🤖 AI / LLM & Agentic Coding Skills
 
-> Proficient in using AI agents and LLM-powered tools to accelerate software development, including code generation, debugging, refactoring, architecture design, documentation, and workflow automation.
+<p>
+  <em>
+    Proficient in using AI agents and LLM-powered tools to accelerate software development, including code generation, debugging, refactoring, architecture design, documentation, and workflow automation.
+  </em>
+</p>
 
-| Skill Area | Tools / Platforms | Proficiency |
-|---|---|---|
-| AI Coding Assistants | OpenAI Codex, Claude Code, Google Antigravity | Advanced |
-| LLM Platforms | OpenAI, Claude / Anthropic, Gemini | Advanced |
-| Agentic Coding Workflow | Prompt Engineering, Code Generation, Debugging, Refactoring | Advanced |
-| Development Support | Requirement Analysis, API Design, Backend Architecture, Documentation | Advanced |
-| Productivity & Research | Technical Research, Planning, SEO Content Optimization | Advanced |
+<table>
+  <tr>
+    <th>Skill Area</th>
+    <th>Tools / Platforms</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td><b>AI Coding Assistants</b></td>
+    <td>OpenAI Codex, Claude Code, Google Antigravity</td>
+    <td><b>Advanced</b></td>
+  </tr>
+  <tr>
+    <td><b>LLM Platforms</b></td>
+    <td>OpenAI, Claude / Anthropic, Gemini</td>
+    <td><b>Advanced</b></td>
+  </tr>
+  <tr>
+    <td><b>Agentic Coding Workflow</b></td>
+    <td>Prompt Engineering, Code Generation, Debugging, Refactoring</td>
+    <td><b>Advanced</b></td>
+  </tr>
+  <tr>
+    <td><b>Development Support</b></td>
+    <td>Requirement Analysis, API Design, Backend Architecture, Documentation</td>
+    <td><b>Advanced</b></td>
+  </tr>
+  <tr>
+    <td><b>Productivity & Research</b></td>
+    <td>Technical Research, Planning, SEO Content Optimization</td>
+    <td><b>Advanced</b></td>
+  </tr>
+</table>
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=flat-square&logo=anthropic&logoColor=white)](#)
-[![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white)](#)
-[![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-%234285F4.svg?style=flat-square&logo=google&logoColor=white)](#)
-[![AI Agent](https://img.shields.io/badge/AI_Agent-Coding_Assistant-%23FF6B6B.svg?style=flat-square)](#)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Advanced-%237B3F9E.svg?style=flat-square)](#)
-[![Code Generation](https://img.shields.io/badge/Code_Generation-Advanced-%232C3E50.svg?style=flat-square)](#)
-[![AI Debugging](https://img.shields.io/badge/AI_Debugging-Advanced-%2300A86B.svg?style=flat-square)](#)
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-%234285F4.svg?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agent-Coding_Assistant-%23FF6B6B.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-%237B3F9E.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code_Generation-Advanced-%232C3E50.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Debugging-Advanced-%2300A86B.svg?style=flat-square" />
+</p>
+
+</div>
 
 ## 🛠️ Tech Stack
 

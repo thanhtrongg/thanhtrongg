@@ -35,6 +35,13 @@ I enjoy building practical, scalable, and maintainable applications that solve r
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=sqlite&logoColor=white)](#)
 
+### AI / LLM Tooling
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white)](#)
+[![Anthropic](https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white)](#)
+[![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-%234285F4.svg?style=flat-square&logo=google&logoColor=white)](#)
+
 ### Others
 
 [![WordPress Customization](https://img.shields.io/badge/WordPress_Customization-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)](#)

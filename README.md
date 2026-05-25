@@ -20,6 +20,14 @@ I’m also proficient in using **AI agents and LLM-powered tools** such as **Ope
 - 🤖 Experienced in using **AI-assisted coding workflows** to improve productivity
 - 🧠 Always learning and improving through hands-on projects
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| Parking Building Management System | A parking facility management system with roles, parking sessions, reservations, payments, and issue handling | ReactJS, Node.js, ExpressJS, PostgreSQL |
+| Student / Course Management System | A system for managing students, courses, users, and reports | ReactJS, Node.js, PostgreSQL |
+| API Management Backend | RESTful API backend with authentication, authorization, and database integration | Node.js, ExpressJS, PostgreSQL |
+
 ## 🟨 JavaScript & TypeScript Ecosystem
 
 <div align="center">
